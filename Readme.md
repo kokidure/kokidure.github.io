@@ -17,11 +17,11 @@ Currently working at [Redfin](https://www.redfin.com), and leading [DevBridge LA
 ## 🌐 Live Demo
 
 You can view the live version of this portfolio here:  
-👉 [https://kokidure.github.io/portfolio](https://kokidure.github.io/portfolio)
+👉 [https://kokidure.github.io](https://kokidure.github.io/)
 
 ## 📸 Preview
 
-![Portfolio Screenshot](./screenshot.png) <!-- (reemplazá esto si tenés una captura real del sitio) -->
+![Portfolio Screenshot](./screenshot.png)
 
 ## 📁 Structure
 
